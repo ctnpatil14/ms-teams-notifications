@@ -3,7 +3,7 @@ author: 'Chetan Patil'
 description: It will send the message in MS Teams channel about the status of job
 inputs:
   webhook_uri:
-    descripton: Webhook URL for the MS teams channel to receive the msg
+    descripton: Webhook URL for the MS teams channel to receive the message
     required: true
   mwssage:
     description: 'Message to be posted in MS channel'
